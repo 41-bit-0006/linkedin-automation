@@ -1,0 +1,10 @@
+/target/
+target/
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+bin/
+screenshots/*.png
+!screenshots/.gitkeep
